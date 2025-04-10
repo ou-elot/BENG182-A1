@@ -9,6 +9,9 @@ Change directory twice using commands `cd BENG182A1` and then `cd PythonCode` **
 
 
 ## Commands for Questions Requiring Code
+
+**Note that all output files will be sent to PythonCode directory, the directory containing all the python scripts**
+
 ### Question 1
 Run command `python hello.py`. The output will be shown in terminal. 
 
